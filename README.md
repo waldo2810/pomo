@@ -17,6 +17,17 @@ There are plenty of these TUI's out there like
 
 I just wanted to do my own implementation.
 
-## Docs
+## Get started
 
-Read the code dummy.
+1. Fork this repository
+```bash
+git clone https://github.com/waldo2810/pomo.git
+```
+2. Build binary
+```bash
+make
+```
+3. Run Pomo
+```bash
+./pomo
+```
