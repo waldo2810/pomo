@@ -33,7 +33,7 @@ chmod +x /path/to/download/pomo
 ./pomo
 ```
 
-### Method 2: Local
+### Method 2: Build from source
 1. Clone this repository
 ```bash
 git clone https://github.com/waldo2810/pomo.git
