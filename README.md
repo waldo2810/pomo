@@ -2,6 +2,8 @@
 
 A TUI pomodoro that helps you focus more and prevent burnouts.
 
+![Preview](pomo.gif)
+
 ## Motivation
 
 Most of the time I like to have control of my apps through the terminal and I recently started using the [Pomodoro Technique](https://www.pomodorotechnique.com/).
@@ -19,6 +21,7 @@ I just wanted to build my own implementation.
 
 ## Get started
 
+### Method 2: Local
 1. Clone this repository
 ```bash
 git clone https://github.com/waldo2810/pomo.git
