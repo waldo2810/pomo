@@ -21,6 +21,18 @@ I just wanted to build my own implementation.
 
 ## Get started
 
+### Method 1: Download binary
+
+1. Download binary from the [releases](https://github.com/waldo2810/pomo/releases) page of this repo.
+2. Go to the downloaded location and make it executable
+```bash
+chmod +x /path/to/download/pomo
+```
+3. Run Pomo binary
+```bash
+./pomo
+```
+
 ### Method 2: Local
 1. Clone this repository
 ```bash
